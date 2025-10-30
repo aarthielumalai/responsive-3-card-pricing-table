@@ -7,7 +7,7 @@ Features a dark theme, smooth hover animations, and a highlighted “Pro” plan
 
 ## 🖼️ Preview
 
-[--TO BE ADDED --]
+![alt text](image.png)
 
 ---
 
